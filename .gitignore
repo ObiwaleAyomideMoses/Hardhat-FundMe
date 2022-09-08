@@ -1,0 +1,8 @@
+.env
+.prettierrc
+.env.example
+package.json
+.prettierignore
+.eslintignore
+node_modules
+artifacts
